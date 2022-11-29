@@ -1,3 +1,9 @@
+A React Application that helps us understand some of the most popular and studied algorithms in Computer Science. The application tries to make effective use of React Hooks for handling stateful logic and conditional rendering. The user has the freedom to select from a range of possible Sorting Speeds (via the slider) to help slow down or speed up the comparison and sorting animations. 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
